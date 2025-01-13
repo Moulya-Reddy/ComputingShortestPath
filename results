@@ -1,0 +1,16 @@
+Enter the total number of nodes: 6
+Enter the cost matrix of your graph (use 0 for no direct edge):
+0 6 4 5 0 0
+0 0 0 0 -1 0
+0 -2 0 0 3 0
+0 0 -2 0 0 -1
+0 0 0 0 0 3
+0 0 0 0 0 0
+Enter the source node: 0
+Vertex Distance from Source 0:
+Vertex 0: 0
+Vertex 1: 1
+Vertex 2: 3
+Vertex 3: 5
+Vertex 4: 0
+Vertex 5: 3
