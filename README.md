@@ -20,6 +20,7 @@ Negative-Weight Cycle Check: After n-1 iterations, we check one more time to see
 
 The graph is represented as a cost matrix where:
 Each element input[i][j] represents the weight of the edge between vertex i and vertex j.
+The maximum limit for the number of nodes is set to 10 for simplicity.
 If there is no direct edge between the vertices, the value should be 0.
 Before running the project, ensure that your system has a C compiler. You can use GCC or any other compiler to run the program.
 
